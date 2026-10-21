@@ -28,4 +28,4 @@ Edit the paths in the first cell:
 
 ## Data
 Mobil AVO Viking Graben Line 12 (2D marine streamer, North Sea), public dataset released by
-Mobil through the SEG. The SEG-Y file (~720 MB) is not included in this repository.
+Mobil through the SEG. The SEG-Y file (~750 MB) is not included in this repository.
